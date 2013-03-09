@@ -1,9 +1,8 @@
 # bbs-741
-a library for bbs741 bioinformatics 
+a library for bbs741 bioinformatics /bbs-741-0.1.0-SNAPSHOT-standalone.jar
 
  
 ## Usage
-Dynamic programming global alignment 
 java -jar ./bin/bbs-741-0.1.0-SNAPSHOT-standalone.jar -1 [first sequence] -2 [second sequence] -m [match score] -i [mismatch score] -g [gap score]
 
 ## License
