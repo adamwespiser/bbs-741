@@ -26,7 +26,7 @@
     (cond 
       (= #{:left} dir-set) \-
       (= #{:up}    dir-set) \|
-      (= #{:diag} dir-set) \)
+      (= #{:diag} dir-set) \\
       (= #{:left :up} dir-set) \J
       (= #{:diag :up} dir-set) \v
       (= #{:left :diag} dir-set) \>
@@ -150,9 +150,9 @@
         v (map (fn[x](map (fn[y](nth y 0)) x )) comb)
         d (map (fn[x](map (fn[y](nth y 1)) x )) comb)
         ]
-    (pp/pprint (map (fn[x](apply str (map direction-to-char x))) d))
+    ;(pp/pprint (map (fn[x](println (eval (cons 'str  (map direction-to-char x))))) d))
+    (pp/pprint (filter #(not (nil? %)) (map (fn[x](println (eval (cons 'str  (map direction-to-char x))))) d)))
     (pp/pprint v)
    ;(pp/pprint (map (fn[x](map (fn[y](nth y 1)) x )) comb ))
   (traceBack sequence1 sequence2 comb)
   println (str "Global Alignment Score: " (last (flatten v)))))
-
