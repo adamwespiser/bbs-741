@@ -1,0 +1,69 @@
+Adam Wespiser
+
+
+Question 1:
+The following repeatmasker summary is for the first 100kb of the 
+human genome.
+==================================================
+file name: RM2_chrY1-100kb.fa_1367872218
+sequences:             1
+total length:     100000 bp  (50000 bp excl N/X-runs) 
+GC level:         52.29 %
+bases masked:      13835 bp ( 13.84 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:               28         6453 bp    6.45 %
+      ALUs           26         6153 bp    6.15 %
+      MIRs            2          300 bp    0.30 %
+
+LINEs:                5         2466 bp    2.47 %
+      LINE1           5         2466 bp    2.47 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:        12         4314 bp    4.31 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      5         1021 bp    1.02 %
+      ERV_classI      7         3293 bp    3.29 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:         0            0 bp    0.00 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:         0            0 bp    0.00 %
+
+Total interspersed repeats:    13233 bp   13.23 %
+
+
+Small RNA:            0            0 bp    0.00 %
+
+Satellites:           0            0 bp    0.00 %
+Simple repeats:      15          636 bp    0.64 %
+Low complexity:       0            0 bp    0.00 %
+==================================================
+
+
+The most similar intersperced repeat to consensus is an AluY @ chrY:13588-13730, with only 5.6% divergence. 
+The most diverged interspersed repeat from the consensus is an L1MC4, a member of the line family, located @ chrY:90207-90318. However, as sequences become more distant, repeat masker has less information to identify them, and more divergent repeats may be present. 
+There are a couple of full length repeats, including an ERV1 @ chrY:5667-6167 as determined by 0 bp left in reference repeat.
+The sequence with the greatest percent of inserted bp's is an LTR/ERVL-MaLR located at chrY:11013-11343.  
+
+
+
+
+Problem 2:
+gorilla AluY alignment: gorilla.con.aln.1028
+gorillaAlu.con.fa: is the gorilla consensus.  
+My sequence is very similair to the consensus provided in the homework.  looking at a msa of the two, there are only two differences: The deletion of a bp in my sequence, and the shortening of the poly A tail. 
+
+
+Problem 3:
+The biggest tandem repeat is of "TAGGTCTCATTGAGGACAGATAGAGAGCAGACTGTGCAACCTTTAGAGTCTGCATTGGGCC" it has a period of 61,  305.4 copies, and a total lenth of 18629bp, making it the most significant tandem repeat all all three respective statistical measures.
+
+Problem 4:
+Tandem repeat finder only presents the full length sequence matching itself, while blast2seq presents multiple self hits, as well as a very informative dot plot. blast2_seq can determine tandem regions that are subjected to insertions or deletions.
+
+
