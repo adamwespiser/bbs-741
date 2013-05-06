@@ -61,5 +61,11 @@ My sequence is very similair to the consensus provided in the homework.  looking
 
 
 
+Problem 3:
+The biggest tandem repeat is of "TAGGTCTCATTGAGGACAGATAGAGAGCAGACTGTGCAACCTTTAGAGTCTGCATTGGGCC" it has a period of 61,  305.4 copies, and a total lenth of 18629bp, making it the most significant tandem repeat all all three respective statistical measures.
+
+Problem 4:
+Tandem repeat finder only presents the full length sequence matching itself, while blast2seq presents multiple self hits, as well as a very informative dot plot. blast2_seq can determine tandem regions that are subjected to insertions or deletions.
+
 
 
