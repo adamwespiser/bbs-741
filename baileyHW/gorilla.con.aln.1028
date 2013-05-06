@@ -1,0 +1,252 @@
+CON                  ---------- ----ggccgg gcgcggtggc tcacgcctgt aatcccagca 
+84gorGor3_rmsk_AluY  ---------- ----GGCCAG GCGCGGTGGC TCACGCCTGT AATCCTAGCA 
+201gorGor3_rmsk_AluY ---------- ----GGCCAG GTGCGGTGGC TCACACCTGT AATCCCAGCA 
+15gorGor3_rmsk_AluY  ---------- ----GGCCGG ATGCGGTGGC TCACGCCTGT AATCCCAGCA 
+106gorGor3_rmsk_AluY ---------- ----GGCTGG GCGCGGTGGC TCAGGCCTGT AATCCCAGCA 
+21gorGor3_rmsk_AluY  ---------- ----GGCCGG GTGCGGTGGC TCACGCCTGT AATTCCAGCA 
+238gorGor3_rmsk_AluY ---------- ----GGCCAG GCACGGTGGC TCACGCCTGT AATCCCAGCA 
+27gorGor3_rmsk_AluY  ---------- ----GGCCAG GCCTGGTGGC TCACGCCTGT AATCCCAGCA 
+140gorGor3_rmsk_AluY ---------- -----GCCGG GCGCGGTGGC TCACACCTGT AATCCCAGCA 
+42gorGor3_rmsk_AluY  ---------- -----GCCAG GTGTGGTGTC TCACATCTGT AATCCCAGCA 
+271gorGor3_rmsk_AluY ---------- ----GGCCGG GCACGGTGGC TCATGCCTGT AATCCCAGCA 
+49gorGor3_rmsk_AluY  ---------- ----GGCCGG GCACGGTGGC TCACGCCTGT AAGCCCAGCA 
+156gorGor3_rmsk_AluY ---------- ----GGCCGG GCGTGGTGGC TCACGCCTGT AATCCCAGCA 
+186gorGor3_rmsk_AluY ---------- ----GGCCCG GCGCGGTGGT TCACGCCTGT AATCCCAGCA 
+91gorGor3_rmsk_AluY  ---------- ----GGCCGG GCGCCGTGGC TCATGCCTGT AATCCCAGCA 
+102gorGor3_rmsk_AluY ---------- -----GTCAG GCGTGGTGGC TCAGGCCTGG AATCCCAGCA 
+263gorGor3_rmsk_AluY ---------- ------CCAG GCGCGGTGGC TCACACCTGT AATCCCAGCA 
+164gorGor3_rmsk_AluY ---------- -----GGCCG GCATGGTGGC TCACGCCTGT AATCCCAGCA 
+68gorGor3_rmsk_AluY  ---------- ----GGCCAG GCG-GGTGGC TCACGCCTGT AATCCCAGCA 
+171gorGor3_rmsk_AluY ---------- ----GGCCTG GCGCGGTGGC TCACGCCTGT AATCCCAGCA 
+223gorGor3_rmsk_AluY ---------- ----GGCCAG GCGCAGTGGC TCATGCCTAT AATCCCAGCA 
+76gorGor3_rmsk_AluY  ---------- ----GGCCGG GCACAGTGGC TCACGCCTGT AATCCCAGCA 
+56gorGor3_rmsk_AluY  ---------- ---------- ---------- ---------- ---------- 
+230gorGor3_rmsk_AluY ---------- ----GGCCGG GCGCGGTGGC TCACGCCTGT AATCCCAGCA 
+148gorGor3_rmsk_AluY ---------- ----GGCTGA GCACAGTGGC TCATGCCTAT AATCCCAGCA 
+34gorGor3_rmsk_AluY  GGCCAGGCGT GGTGGCTCAT GCCTGTAATC CTAGCACTTT GGGAGGCTGA 
+260gorGor3_rmsk_AluY ---------- ---------- ---------- ---------- ---------- 
+
+CON                  ctttgggagg c--------- ---------- ----cgaggc gggcggatca 
+84gorGor3_rmsk_AluY  CTCTGGGAGG C--------- ---------- ----CAAGGC GGGCAGATCA 
+201gorGor3_rmsk_AluY CTTTAGGAGG C--------- ---------- ----CGAGGC GGGTGGATCA 
+15gorGor3_rmsk_AluY  CTTTGGGAGG C--------- ---------- ----CGAGGC GGGCCGATCA 
+106gorGor3_rmsk_AluY CTCTGGGAGG C--------- ---------- ----CGAGAC GGGCGGATCA 
+21gorGor3_rmsk_AluY  CTTTGGGAGG C--------- ---------- ----CGAGGC AGGCAGATCA 
+238gorGor3_rmsk_AluY CTCTGGAAGG C--------- ---------- ----CGAGGC AGGCGGATCA 
+27gorGor3_rmsk_AluY  CTTTGGGAGG C--------- ---------- ----TGAGGC GGGCAGATCA 
+140gorGor3_rmsk_AluY ATTTGGGAGA C--------- ---------- ----TAAGGC AGGCGGATCA 
+42gorGor3_rmsk_AluY  CTTTGGGAGG C--------- ---------- ----CGAGGA GGGTGAATGG 
+271gorGor3_rmsk_AluY CTTTGGGAGG C--------- ---------- ----CGAGGT GGGTGGATCA 
+49gorGor3_rmsk_AluY  CTTTGGGAGG C--------- ---------- ----CGAGGT GGGCGGATCA 
+156gorGor3_rmsk_AluY CTTTGGGAGG C--------- ---------- ----CGAGGC GGGCGGATCA 
+186gorGor3_rmsk_AluY CTTTGGAAGG C--------- ---------- ----CGAGGT GGGTGGATCA 
+91gorGor3_rmsk_AluY  CTTTGGGAGG C--------- ---------- ----TGAGGC AGGCAGATCA 
+102gorGor3_rmsk_AluY CTTTAGAAGG T--------- ---------- ----TGAGGT GGGCGGATCA 
+263gorGor3_rmsk_AluY CTTTGGAAGG C--------- ---------- ----GGAGGC AAGCGGATCA 
+164gorGor3_rmsk_AluY CTTTGGGAGG C--------- ---------- ----TGAGGC GGGCAGATCA 
+68gorGor3_rmsk_AluY  CTTTGGGGGG C--------- ---------- ----CGAGGC AGGCAGATCA 
+171gorGor3_rmsk_AluY CTTTGGGAGG C--------- ---------- ----CGAGGC AGGCGGATCA 
+223gorGor3_rmsk_AluY CTTTGGGAGG CA-------- ---------- ----CGAGGC AGGCGGATCA 
+76gorGor3_rmsk_AluY  CTTTGGGAGG C--------- ---------- -----GAGGC GGGCGGATTA 
+56gorGor3_rmsk_AluY  ---------- ---------- ---------- ---------- ---------- 
+230gorGor3_rmsk_AluY CTTTGGGAGG C--------- ---------- ----CAAGGC GGGCAGATCA 
+148gorGor3_rmsk_AluY CTTTGGGAGG CCGAGGAGGG CAGATCACAA TATCAGGTGA GGGCAGATCA 
+34gorGor3_rmsk_AluY  GGCGGCAGAT CACGAGGTCA GGAGATCGAG ACCATTCTGG CTAACACAGT 
+260gorGor3_rmsk_AluY ---------- ---------- ---------- ---------- ---------- 
+
+CON                  cgaggtcagg agatcgagac catcctggct aaca------ ----cggtga 
+84gorGor3_rmsk_AluY  CGAGGCCAGG AGATCAAGAC CATCCTGGCT AACA------ ----CGGTGA 
+201gorGor3_rmsk_AluY CGAGGTCAGG AGATCGAGAC CATCCTGGCT AACA------ ----CGGTGA 
+15gorGor3_rmsk_AluY  CGAGGCCAGG AGATCGAGAC CATCCTGGCT AACA------ ----CAGTGA 
+106gorGor3_rmsk_AluY CGAGGTCAGG AGATCGAGAC CATCCTGGCT AACA------ ----TGGTGA 
+21gorGor3_rmsk_AluY  CAAGGTCAGG AGATCAAGAC CATCCTGGCT AACA------ ----CGGTGA 
+238gorGor3_rmsk_AluY CAAGGTCAGG AGATCGAGAC CATCCTGGCT AACA------ ----TGGTGA 
+27gorGor3_rmsk_AluY  TGAGATCAGG AGATCGAGAC CATCCTGGCC AACA------ ----CGGTGA 
+140gorGor3_rmsk_AluY TGAGGTCAGG AGATCGAGAC CATCCTGGCC AACA------ ----CGGTGA 
+42gorGor3_rmsk_AluY  CAAGGTGAGG AGATCGAGAC CATCCTGGCT AACA------ ----CGGTGA 
+271gorGor3_rmsk_AluY CAAGGTCAGG AGATTGAGAC CATCCTGGCT AACG------ ----TGGTGA 
+49gorGor3_rmsk_AluY  TGAGGTCAGG AGATCGAGAC CATCCTGGCT AACAGCGTGA AACACCGTGA 
+156gorGor3_rmsk_AluY CGAGGTCAGG AGATTGAGAC CATCCTGGCT AACA------ ----TGGTGA 
+186gorGor3_rmsk_AluY CGAGGTCAGG AGATCGAGAC CATACTGGCT AACA------ ----TGGTGA 
+91gorGor3_rmsk_AluY  CAAGGTCAGG AGACCGAGAC CATCCTGGCT AACA------ ----CGGTGA 
+102gorGor3_rmsk_AluY CGAGGTCAGG AGATCGAGAC CATCCTGGCT AACA------ ----CGGTAG 
+263gorGor3_rmsk_AluY CGGGGTCAGC AGATCGAGAC CATCCTGGCT AACA------ ----CGGTGA 
+164gorGor3_rmsk_AluY CGAGGTCAGG AGGTCGAGAC CATCCTGGCT AACA------ ----CGGTGA 
+68gorGor3_rmsk_AluY  CAAGATCAGG AGATCGAGAC CATCCTGGCT AACA------ ----CGGTGA 
+171gorGor3_rmsk_AluY CGAGGTCAGG AGATCAAGAC CATCCTGGAT AACA------ ----CGGTGA 
+223gorGor3_rmsk_AluY CAAGGTCAGG AGATCAAGAC CATCCTGGCT AACA------ ----CGGTGA 
+76gorGor3_rmsk_AluY  CAAGGTCAGG AGATCGAGAC CATCCTGGCT AACA------ ----TGGTGA 
+56gorGor3_rmsk_AluY  ---------- ---------- ---------- ---------- ---------- 
+230gorGor3_rmsk_AluY CGAGATCAGG AGATCAAGAC CATCGAGATC GAGGC----T AACATGGTGA 
+148gorGor3_rmsk_AluY CAATATCAGG TGATTGAGAC CATCCTGGCT AACA------ ----CAGTGG 
+34gorGor3_rmsk_AluY  GTAAACCCCA TCTCTATTAA AAATACAAAA AATTAGCTGG GTGTGGTGGT 
+260gorGor3_rmsk_AluY ---------- ---------- ---------- ---------- ---------- 
+
+CON                  aaccccgtct ctactaaaaa ---------- -------tac aaaaaatt-a 
+84gorGor3_rmsk_AluY  AACCCCGTCT CTACTAAACA ---------- -------TAT AAAAAATT-A 
+201gorGor3_rmsk_AluY AACCGCGTCT CTACTAAA-- ---------- ---------- ---AAACT-A 
+15gorGor3_rmsk_AluY  AACCCCGTCT CTACTAAGAA ---------- -------TAC AAAAAATT-A 
+106gorGor3_rmsk_AluY AACCTCGTTT CTACTAAAAA AAAAAAAAAA AAAAAAATAC AAAAAATT-A 
+21gorGor3_rmsk_AluY  AACCCCATTT CTACTGAAAA ---------- ---TACAAAA ACAAAATT-A 
+238gorGor3_rmsk_AluY AACCCCGTCT CTACTAAAAA ---------- ---ATATACA AAAAAATT-A 
+27gorGor3_rmsk_AluY  AACCCCATCT CTACTAAAAA TACAAA---- ---AAAAAAA AAAAAATT-A 
+140gorGor3_rmsk_AluY AATCCCATCT CTACTAAAAA ---------- ---TACAAAA CAAAAATT-A 
+42gorGor3_rmsk_AluY  AACCCTGTCT CTACTAAAAA ---------- -------CAC AAAAAATT-A 
+271gorGor3_rmsk_AluY AACCCCGTCT CTACTAAAAA ---------- -------TAC GAAAAGTT-A 
+49gorGor3_rmsk_AluY  AACACCGTCT CTACTAAAAA ---------- -------CAC AAAAAAAT-A 
+156gorGor3_rmsk_AluY AACCCTGTCT CTACTAAAAA ---------- -------TAC TAAAAATC-A 
+186gorGor3_rmsk_AluY AACCCCGTCT CTACTAAAAA ---------- -------TAC AGAAAAC--- 
+91gorGor3_rmsk_AluY  AACCCCGTCT CTACTAAAAA ---------- -------TAC AAAAAATTTA 
+102gorGor3_rmsk_AluY AA-------- ---------- ---------- ---------- ---------- 
+263gorGor3_rmsk_AluY AACCCTGTCT CTACTAACAA ---------- -------TAC AAAAAATT-A 
+164gorGor3_rmsk_AluY AACCCCGTCT CTACTAAAAA ---------- -------CAC AAAAAATT-A 
+68gorGor3_rmsk_AluY  AACCCCATCT CTACTAAAAA ---------- -------TAC AAAAAATT-A 
+171gorGor3_rmsk_AluY AACTCCGTCT CTACTAAAAA ---------- -------TAC AAAACAAT-A 
+223gorGor3_rmsk_AluY AACCCCGTCT CTACTGAAAA ---------- -------TAC AAAAAATT-A 
+76gorGor3_rmsk_AluY  AACCCCATCT CTACTAAAAA ---------- -----TACAA AAAAAATT-A 
+56gorGor3_rmsk_AluY  ---------- ---------- ---------- ---------- -----ATT-A 
+230gorGor3_rmsk_AluY AACTCTGTCT CTACTAAAAA ---------- -------TAC AAAAAATT-A 
+148gorGor3_rmsk_AluY AACCCCGTCT CTACTAAAAA ---------- -----TACAA AAAAAAATTA 
+34gorGor3_rmsk_AluY  GGGCACCTGT AGTCCCAGCT ACTCGGGAGG CTGAGGCAGG AGAATGGCAT 
+260gorGor3_rmsk_AluY ---------- ---------- ---------- ---------- ---------- 
+
+CON                  gccgggcgtg gtggcgggcg cctgtagtcc cagct---ac tcgggaggct 
+84gorGor3_rmsk_AluY  GCCGGGCGTG GTGGCGGGTG CCTGTAGTCC CAGCT---AC TCGGGAGGCT 
+201gorGor3_rmsk_AluY GCTGGGCGTG GTGGCGGGCA CCTGTAGTCC CAGCT---AC TCGGGAGGCT 
+15gorGor3_rmsk_AluY  GCCGGGCGTG -TGGCGGGCG CCTGTAGTCC CAGCT---AC TCGGGAGGCT 
+106gorGor3_rmsk_AluY GCCAGGCGTG GTGGCGGGCG CCTGTAGGCC CTGCT---AC TCGGGAGGCT 
+21gorGor3_rmsk_AluY  GCCGGTCATG GTGGCAGGTG CCTGTAGTCC CAGCT---AC TCGGGAGGCT 
+238gorGor3_rmsk_AluY GCTGGGCATG GTAGCAGGCG CCTGTAGTCC CAGCT---AC TCAGGAGGCT 
+27gorGor3_rmsk_AluY  GCCGGGCATG GTGGCGGGCA CCTGTAGTCC CAGCT---AC TTGGGAGGCT 
+140gorGor3_rmsk_AluY GCCGGGCGTG GTGGTGGGCT CCTGTAATCC CAGCT---AC TTGGGAGGCT 
+42gorGor3_rmsk_AluY  GCTGGGCATG GTGGCAGGTG CCTGTAGTCC CAGCT---AA TTGGGAGGGT 
+271gorGor3_rmsk_AluY GCTGGGCATG GTGGCAGGTG CCTGTAGTCC CAGCT---AC TCGAGAGGCT 
+49gorGor3_rmsk_AluY  GCTGGGCGTG GTAGCAGGCA CCTGTAGTCC CAGCT---AC TCGGGAGGCT 
+156gorGor3_rmsk_AluY GCCGGGCGTG TTGGCGTGCG CCTGTAGTCC CAGCT---AC TCTGGAGGCT 
+186gorGor3_rmsk_AluY ---------- TTGGCGGATG CTTGTACTCT CAGCT---AC TTGGGAGGCT 
+91gorGor3_rmsk_AluY  GCCGGGCATG GTGGCGGGCG CCTGTAGTCC CAGCT---AC TCAGNNNNNN 
+102gorGor3_rmsk_AluY ---------- ---------- ---------- ---------- ---------- 
+263gorGor3_rmsk_AluY GCCGGGCGTG GTGGCAGGCG CCTGTAGTCC CAGCT---AC TCAGGAGGCC 
+164gorGor3_rmsk_AluY GCTAGGCGGG GTGGTGGGCA CCTATAGTCC TGGCT---AC TCAGGAGGCT 
+68gorGor3_rmsk_AluY  GCCGAGTGTG GTGGCGGGCA CCTGTAGTCC CAGCT---AC TCGGGAGGCT 
+171gorGor3_rmsk_AluY GCCAGGCGTG GTGGCAGGCG CCTGTAGTCC CAGCT---AC TCGGGAGGCT 
+223gorGor3_rmsk_AluY GCCGGGCATG GTGGCGGGCG CCTGTAGTCC CAGCT---AC TCAGGAGGCT 
+76gorGor3_rmsk_AluY  GCCAGGCGCA GTGGTGGGCG CCTGTAGTCC CAGCT---AC TCCGGAGGCT 
+56gorGor3_rmsk_AluY  GCCAGGAGTG GTGGCAGACG CCTGTAGTCC CAGCT---AT CTGGGAGGCT 
+230gorGor3_rmsk_AluY GCCAGGTGTG GTGGCGGGTG CCTGTAGTTC CAACT---AC TTGGGAGGCT 
+148gorGor3_rmsk_AluY GCGGGGCGTG GTGGTGGGTG CCTGTAGTCC CAGCT---AC TCTGGAGGCT 
+34gorGor3_rmsk_AluY  GAACCCAGGA GGCAGAGGTT GCAGTGAGCT GAGATCACAC CACTGCATTC 
+260gorGor3_rmsk_AluY ---------- ---------- CCTGTAATCC TAGCT---AC TTTGGAAGGC 
+
+CON                  gaggcaggag aatggcgtga acccgggagg cgg---agct tgcagtgagc 
+84gorGor3_rmsk_AluY  GAGGCAGGAG AATGACGGGA ACCTGGGAGG CGG---AGCT TGCAGTGAGC 
+201gorGor3_rmsk_AluY GAGGCAGAAG AATGGCGTGA ACCTGGGGGG CGG---AGCT TGCAGTGAGC 
+15gorGor3_rmsk_AluY  GAGGCGGGAG AATGGCGTGA ACCCGGGAGG CGG---AGC- ---------- 
+106gorGor3_rmsk_AluY GAGGCAGGAG TATGGCGTGA ACCCGGGAGA CGG---AGCT TGCAGTGATC 
+21gorGor3_rmsk_AluY  GAGGCAGGAG AATGGCGTGA ACCCAGGAGG CGG---AGCT ---------- 
+238gorGor3_rmsk_AluY GAGGCAGGAG AATGGCGTGA ACCCGGGAGG CGG---AGCT TGCAGTGAGC 
+27gorGor3_rmsk_AluY  GAGGCAGGAG AATGGTGTGA ACCTGGGAGG CGG---GGCT TGCAGTGAGC 
+140gorGor3_rmsk_AluY GAGGCAGGAG AATGGCGTGA AGCCGGGAGG CAG---AGCT TGCAGTGAGC 
+42gorGor3_rmsk_AluY  TAGGCAGGAG AATGGCATGA ACCCTAGAGG CGG---AGCT TGCAGTGAGC 
+271gorGor3_rmsk_AluY GAGGCAGGAG AATGGCATGA ACCCGGGAGG CGGCGGAGCC TGCAGTGAGC 
+49gorGor3_rmsk_AluY  GAGGCGGGAG AATGGCATGA ACCCAAGAGG CAG---AGCT TGCAGTGAGC 
+156gorGor3_rmsk_AluY GAGGCAGGAG AATGGCGTGA ACCCGGGAGG CGG---ACCT TGCAGTGAGC 
+186gorGor3_rmsk_AluY GAGGCAGGAG AATGGCGTGA AGCCGGGAGG CGG---AGCT TGCAGCGAGC 
+91gorGor3_rmsk_AluY  NNNNNNNNNN NNNNNNNNNN NNNNNN-NNN NNN---NNNN NNNNNNNNNN 
+102gorGor3_rmsk_AluY ---------- ---------- ---------- ---------- ---------- 
+263gorGor3_rmsk_AluY GAGGCAGGAG AATGGCGTGA ACCCCG-GGG CGG---AGCT TGCAGTGAGC 
+164gorGor3_rmsk_AluY GAGGCAGGAG AATGGCGTGA ACCCAGCAAG CGG---AGCT TGCAGTGAGC 
+68gorGor3_rmsk_AluY  GAGGCAGGAG AATGGCGTGA ACCCAGGAGG CGG---AGCT TGCAGTGAGC 
+171gorGor3_rmsk_AluY GAGGCAGGAG AATGGTGTGA ACCCGGGAGG CGG---AGTT TGCAGTGAGC 
+223gorGor3_rmsk_AluY GAGGCAGGAG AATG-TGTAA ACCCGGGAGG CAG---AGCT TGCAGTGAGC 
+76gorGor3_rmsk_AluY  GAGGCAGGAG AATGGCGTGA ACCCCGGAGG CCG---AGTT TGCAGAGAGC 
+56gorGor3_rmsk_AluY  GAGGCAGGAG AATGGCGTGA ACCCAGGAGG CAG---AGCT TGCAGTAAGC 
+230gorGor3_rmsk_AluY GAGGCAGGAG AATGGCATGA ACT-GGGAGG TGG---AGCT TGCAGTAAGC 
+148gorGor3_rmsk_AluY GAGGCAGGAG AATGGCATGA ACCTGGGAGG CGG---AGCT TGCAGTGAGC 
+34gorGor3_rmsk_AluY  CAGCCTGGGC AACATAGCAA GACTCCCTCT CAAAAAAAAA AAAAAAAAAA 
+260gorGor3_rmsk_AluY TGAGGTGGGC AACATAGTGA GACCTTATCT CAAATAAATA AATAAATAAA 
+
+CON                  c-gagatcgc gcca------ --ctgcactc cagcctgggc ?--------- 
+84gorGor3_rmsk_AluY  C-AAGATCGC GCCA------ --CAGCACTC CAGCTCGAG- G--------- 
+201gorGor3_rmsk_AluY C-GAGATCGC GCTA------ --CTGCACTC CAGCC----- G--------- 
+15gorGor3_rmsk_AluY  ---------- ---------- ---------- ---------- ---------- 
+106gorGor3_rmsk_AluY C-GAGATCGC GCCA------ --CTTCACTC CAGCCTGGGC G--------- 
+21gorGor3_rmsk_AluY  ---------- ---------- ---------- ---------- ---------- 
+238gorGor3_rmsk_AluY C-GAGATTGC GCCA------ --CCGCACTC CAGCCTGGGC A-----ACCT 
+27gorGor3_rmsk_AluY  T-GAGATTGT GCCA------ --CTGCACTC CAGCCT---- ---------- 
+140gorGor3_rmsk_AluY CAGAGCTTGC AGTGA----- -GCCAAGATC GTGCCACTGC ACTCCAGCCT 
+42gorGor3_rmsk_AluY  C-AAGATCAT GCCA------ --CTGCACTC CAACCTGGGC A--------- 
+271gorGor3_rmsk_AluY C-AAGATGGC GCCA------ --CTGCACAC CAGCCTGGGC A--------- 
+49gorGor3_rmsk_AluY  C-GAGATCGC GCCA------ --CTGCACTC CAGCCTGGGT G--------- 
+156gorGor3_rmsk_AluY C-GAGATGGT GCCA------ --CGGCACTC CAGCCTGGGC A--------- 
+186gorGor3_rmsk_AluY C-AAGATCAC GCCA------ --CTGCACTC CAGCCTGGA- ---------- 
+91gorGor3_rmsk_AluY  N-NNN----- -CCA------ --CTGCACTC CAGCCTGGG- C--------- 
+102gorGor3_rmsk_AluY ---------- ---------- ---------- ---------- ---------- 
+263gorGor3_rmsk_AluY C-GAGATCAT GCCA------ --CTGCACTA CAGCCTGGGG C--------- 
+164gorGor3_rmsk_AluY A-GAGATCAT GCCA------ --CTGCACTT CAGCCTGGG- C--------- 
+68gorGor3_rmsk_AluY  C-GAGATTGC GCCACTGCGC CACTGCATTC CAGCCTGGGC G--------- 
+171gorGor3_rmsk_AluY C-GA------ ---------- ---------C CAGCCTGGGC G--------- 
+223gorGor3_rmsk_AluY C-GAGATTGC GCCA------ --CTGCACTC CGGCCTGGAT G--------- 
+76gorGor3_rmsk_AluY  C-GAGATCGC ACCA------ --CTGCACTC TAGCCTGGGC A--------- 
+56gorGor3_rmsk_AluY  C-GAGATCAC ACCA------ --CTGCACTC CAGCCTGGGC G--------- 
+230gorGor3_rmsk_AluY C-GAGATCGC ACCA------ --CTGCGCTC CAGCCTGGGC G--------- 
+148gorGor3_rmsk_AluY C-GAGATCGC GCCA------ --TTGCACTC CAGCCTGGGC A--------- 
+34gorGor3_rmsk_AluY  AAAAAAGAA- ---------- ---------- ---------- ---------- 
+260gorGor3_rmsk_AluY TAA------- ---------- ---------- ---------- ---------- 
+
+CON                  -----acaga gcgagactcc gtctcaaaaa aaaaaaaaaa aaa------- 
+84gorGor3_rmsk_AluY  -----ACAGA GTGAGACTCC GTCTCAAAAA AAAAAAACAA AAAA------ 
+201gorGor3_rmsk_AluY -----ACAGA --GAGACTCC GTCTCAAAA- ---------- ---------- 
+15gorGor3_rmsk_AluY  ---------- ---------- ---------- ---------- ---------- 
+106gorGor3_rmsk_AluY -----ACAGA GTGAGACTCC ATCTCAACAA CAACAACAAA AAA------- 
+21gorGor3_rmsk_AluY  ---------- ---------- ---------- ---------- ---------- 
+238gorGor3_rmsk_AluY GGGTGACAGA GCGAGACTCC GTNNNNNNNN ATCCGTCTCA AAAGAAAAAA 
+27gorGor3_rmsk_AluY  ---------- ---------- ---------- ---------- ---------- 
+140gorGor3_rmsk_AluY GGGTGACAGA GCGAGACTCC ATCTCAAAAA AAA------- ---------- 
+42gorGor3_rmsk_AluY  -----ACAGA GCAAGACTCC ATCTCAAAAA AAAAAAA--- ---------- 
+271gorGor3_rmsk_AluY -----ACAGG GCGAGACTCC ATCTCAAAAA AAAAAAAAAA AAAAAAA--- 
+49gorGor3_rmsk_AluY  -----ACAAA GCAAGACTCC ATCTCAAAAA AA-------- ---------- 
+156gorGor3_rmsk_AluY -----ACAAA GCGAGACTCT GTCTCAAAAA TAAATAAATA AATAAAAATA 
+186gorGor3_rmsk_AluY -------GGA GCGAGACTCC GTCTCAATAA A--------- ---------- 
+91gorGor3_rmsk_AluY  ----AACAGA GCAAGACTCT GTTTCACGAA AAAAAAAAAA AAAAA----- 
+102gorGor3_rmsk_AluY ---------- ---------- ---------- ---------- ---------- 
+263gorGor3_rmsk_AluY ----GACAGA GTGAGACTCT GTCTCAAAAT AAATAAATAA ATAAATAA-- 
+164gorGor3_rmsk_AluY ----AATAGA GCGAGATTCC GTCACAAAAA AAAAAAAAAA ---------- 
+68gorGor3_rmsk_AluY  -----ACAGA GCAAGACTCC GTCTCAAAAA AAAAAAAAAG AAAAAAAA-- 
+171gorGor3_rmsk_AluY -----ACAGA GCGAGACTCT GTCTCCAAAA AAAAAAAAAA AAAAAA---- 
+223gorGor3_rmsk_AluY -----ACAGA GCAAGACTCT GTCTCAAAAA AAAAAAAAAA AAAA------ 
+76gorGor3_rmsk_AluY  -----ACAGA GCAAGACTCC GTCTCAAAAA AAAAAAAACA AAACAAAAAT 
+56gorGor3_rmsk_AluY  -----ACAGA GTGACAGTCT GTCTCAAAAA AAAAAAAAAA AAAA------ 
+230gorGor3_rmsk_AluY -----ACAGA GCGAGACTCT GTCTCAGCAA AAAAAAAAAA AAAAAA---- 
+148gorGor3_rmsk_AluY -----ACAGA GTGAGACTCC ATCTTAAAAA TAAAAATAAA AAATAAAAAT 
+34gorGor3_rmsk_AluY  ---------- ---------- ---------- ---------- ---------- 
+260gorGor3_rmsk_AluY ---------- ---------- ---------- ---------- ---------- 
+
+CON                  ---------     
+84gorGor3_rmsk_AluY  ---------     
+201gorGor3_rmsk_AluY ---------     
+15gorGor3_rmsk_AluY  ---------     
+106gorGor3_rmsk_AluY ---------     
+21gorGor3_rmsk_AluY  ---------     
+238gorGor3_rmsk_AluY AAAAAAGAA     
+27gorGor3_rmsk_AluY  ---------     
+140gorGor3_rmsk_AluY ---------     
+42gorGor3_rmsk_AluY  ---------     
+271gorGor3_rmsk_AluY ---------     
+49gorGor3_rmsk_AluY  ---------     
+156gorGor3_rmsk_AluY AAAAA----     
+186gorGor3_rmsk_AluY ---------     
+91gorGor3_rmsk_AluY  ---------     
+102gorGor3_rmsk_AluY ---------     
+263gorGor3_rmsk_AluY ---------     
+164gorGor3_rmsk_AluY ---------     
+68gorGor3_rmsk_AluY  ---------     
+171gorGor3_rmsk_AluY ---------     
+223gorGor3_rmsk_AluY ---------     
+76gorGor3_rmsk_AluY  AAAA-----     
+56gorGor3_rmsk_AluY  ---------     
+230gorGor3_rmsk_AluY ---------     
+148gorGor3_rmsk_AluY AGAAA----     
+34gorGor3_rmsk_AluY  ---------     
+260gorGor3_rmsk_AluY ---------     
+
