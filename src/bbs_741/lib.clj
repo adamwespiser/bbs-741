@@ -65,7 +65,8 @@
        gap    (scores 2)
     cell-val (cond 
     (and (= i 0 ) (= j 0)) [0 [:end]] 
-    (= i 0) (vector (+ (get-in array [(dec j) i      0]) gap) [:up])
+    ;;(= i 0) (vector (+ (get-in array [(dec j) i      0]) gap) [:up])
+    (= i 0) (vector 0 [:up])
     (= j 0) (vector (+ (get-in array [ j     (dec i) 0] ) gap) [:left])
     true (let [three {:diag (+ (get-in array [(dec j) (dec i) 0]) (calcMatchScore-with-nums i j seq1 seq2 array match1 mismatch))
                       :left (+ (get-in array [ j (dec i) 0]) gap)

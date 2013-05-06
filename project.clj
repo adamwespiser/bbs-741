@@ -1,4 +1,4 @@
-(defproject bbs-741 "0.1.0-SNAPSHOT"
+(defproject bbs-741 "0.1.1-SNAPSHOT"
   :description "this project is an implementation of dynamic programming, and may be extended for different purposes in the near future..."
   :url "http://example.com/FIXME"
   :dependencies [[org.clojure/clojure "1.4.0"]
