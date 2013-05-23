@@ -1,0 +1,3 @@
+$perl getUtrLenSpecies.pl > comb.csv 
+
+Then run the R script, everything should work...
